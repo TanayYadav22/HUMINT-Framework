@@ -1,10 +1,10 @@
-# 🧠 HUMINT Framework
+# HUMINT Framework
 
 A conceptual and ethical framework for conducting Human Intelligence (HUMINT) investigations using open-source methods and interpersonal techniques. This repository is meant for educational and lawful research purposes only.
 
 ## 📘 Overview
 
-This framework helps analysts, journalists, and researchers plan and conduct ethical Human Intelligence operations in both online and offline environments.
+The HUMINT Framework is a structured, ethical guide for conducting Human Intelligence operations using open-source research and interpersonal techniques. Designed for analysts, journalists, and cybersecurity professionals, it offers practical modules on digital profiling, interview strategies, social engineering awareness, and documentation best practices!
 
 ---
 
@@ -26,4 +26,4 @@ This framework is intended for ethical use only. Do not attempt to deceive, coer
 ## 🧑‍💻 Author
 
 **Tanay Yadav**  
-Researcher | HUMINT & OSINT Explorer  
+AI Researcher | HUMINT & OSINT Explorer
