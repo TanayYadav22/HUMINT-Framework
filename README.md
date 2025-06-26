@@ -27,3 +27,6 @@ This framework is intended for ethical use only. Do not attempt to deceive, coer
 
 **Tanay Yadav**  
 AI Researcher | HUMINT & OSINT Explorer
+- Author: https://github.com/TanayYadav22
+- Related Content: https://github.com/TanayYadav22/Intelligence-Disciplines
+- Social Media: X ( https://x.com/_tanayyadav_/ ), LinkedIn ( https://www.linkedin.com/in/tanay-yadav2101/ )
