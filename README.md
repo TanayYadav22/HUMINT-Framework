@@ -1,6 +1,6 @@
 # HUMINT Framework
 
-A conceptual and ethical framework for conducting Human Intelligence (HUMINT) investigations using open-source methods and interpersonal techniques. This repository is meant for educational and lawful research purposes only.
+A conceptual and ethical framework for conducting Human Intelligence (HUMINT) investigations using open-source methods and interpersonal techniques. This repository is meant for educational and lawful research purposes only...
 
 ## 📘 Overview
 
